@@ -1,0 +1,8 @@
+Entry.create!(name: "Matz")
+Entry.create!(name: "Carlos Camelas")
+Entry.create!(name: "Hector Franco")
+Entry.create!(name: "Benito Camelas")
+Entry.create!(name: "Paco Bultier")
+Entry.create!(name: "Ronco de Noche")
+Entry.create!(name: "Rosa Meltronco")
+Entry.create!(name: "Casi Mecaigo")
